@@ -1,6 +1,6 @@
 QtCplusplus example
 ===========
-1. hello 
-2. quit
-3. age
-4. find
+1. hello - label
+2. quit - button
+3. age - slider bar
+4. find - layout placement
