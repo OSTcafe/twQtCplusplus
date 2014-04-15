@@ -1,0 +1,7 @@
+#define			M_D0		0x30   // Char ASCII "0"
+#define			M_A4		0x34   // Char ASCII "4"
+#define			M_A5		0x78   // Char ASCII "x"
+#define			M_A6		0x79   // Char ASCII "y"
+#define			M_A7		0x7A   // Char ASCII "z"
+#define	         	M_TEMP		0x54   // Char ASCII "T"
+#define	      	        M_VCC		0x56   // Char ASCII "V"
